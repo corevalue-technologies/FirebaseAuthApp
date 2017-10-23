@@ -3,9 +3,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <ImageButton
+        android:id="@+id/ib_profile_pic"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/defaultphoto"
+        android:scaleType="centerCrop" />
+
     <EditText
         android:id="@+id/et_first_name"
         style="@style/viewCustom"
+        android:layout_below="@id/ib_profile_pic"
         android:ems="10"
         android:hint="@string/first_name"
         android:inputType="textPersonName" />
@@ -21,8 +31,8 @@
     <EditText
         android:id="@+id/et_email"
         style="@style/viewCustom"
-        android:ems="10"
         android:layout_below="@id/et_last_name"
+        android:ems="10"
         android:hint="@string/etEmail"
         android:inputType="textEmailAddress" />
 
