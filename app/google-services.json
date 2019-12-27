@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "38557761778",
-    "firebase_url": "https://fir-authapp-a87f0.firebaseio.com",
-    "project_id": "fir-authapp-a87f0",
-    "storage_bucket": "fir-authapp-a87f0.appspot.com"
+    "project_number": "38557761234",
+    "firebase_url": "https://fir-authapp-1234.firebaseio.com",
+    "project_id": "fir-authapp-a1234",
+    "storage_bucket": "fir-authapp-a1234.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:38557761778:android:afb9d1c3b40f0ce2",
+        "mobilesdk_app_id": "1:38557761234:android:afb9d1c3b40f0ce2",
         "android_client_info": {
           "package_name": "com.appdevelopersblog.firebaseauthapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "38557761778-vdrnar71chp3mv9thb881gpiobpkre16.apps.googleusercontent.com",
+          "client_id": "38557761234-vdrnar71chp3mv9thb881gpiobpkre16.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.appdevelopersblog.firebaseauthapp",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "38557761778-aehrccbic02hdm9us7k69l05ptettlae.apps.googleusercontent.com",
+          "client_id": "38557761234-aehrccbic02hdm9us7k69l05ptettlae.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAj2W04Mr7wqURcHsYi0rhwXBLhLz_Owvo"
+          "current_key": "AIzaSyAj2W04Mr7wqURcHsYi0rhwXBLhLz_1234"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "38557761778-aehrccbic02hdm9us7k69l05ptettlae.apps.googleusercontent.com",
+              "client_id": "38557761234-aehrccbic02hdm9us7k69l05ptettlae.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
